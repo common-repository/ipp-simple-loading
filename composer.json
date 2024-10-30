@@ -1,0 +1,12 @@
+{
+    "name": "incrementtum/ipp-simple-loading",
+    "description": "simple loading screen plugin",
+    "type": "project",
+    "authors": [
+        {
+            "name": "incrementtum"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
